@@ -4,7 +4,7 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
@@ -26,14 +26,19 @@ Here's a walkthrough of implemented user stories:
 #1. user stays logged in across restarts.
 <img src='https://media.giphy.com/media/yf9MieWSiEuIU2SV8e/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-#2.VIEW POST COMMENTS   :
-<img src='https://media.giphy.com/media/HrkE4jZvgZtlfsrpUU/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+#2.VIEW POST COMMENTS :
+
+<img src='https://media.giphy.com/media/HrkE4jZvgZtlfsrpUU/giphy.gif' title='Video View Posts' width='' alt='Video Walkthrough' />
 
 #3.can log out:
-https://media.giphy.com/media/w9Tnfg2IdXgfHDJ0lw/giphy.gif
+
+<img src='https://media.giphy.com/media/w9Tnfg2IdXgfHDJ0lw/giphy.gif' title='Video Log out' width='' alt='Video Walkthrough' />
+
 
 #4.can add new comments:
-https://media.giphy.com/media/jUhxcpeGwiWLISKnx4/giphy.gif
+
+<img src='https://media.giphy.com/media/jUhxcpeGwiWLISKnx4/giphy.gif' title='Video Add New Comments' width='' alt='Video Walkthrough' />
+
 
 
 # code-Path-Parstagram
