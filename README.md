@@ -39,7 +39,7 @@ Here's a walkthrough of implemented user stories:
 
 #4.can add new comments:
 
-<img src='https://media.giphy.com/media/jUhxcpeGwiWLISKnx4/giphy.gif' title='Video Add New Comments' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/2F4jSOPQWggmyAPqEa/giphy.gif' title='Video Add New Comments' width='' alt='Video Walkthrough' />
 
 
 
