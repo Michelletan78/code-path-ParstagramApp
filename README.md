@@ -23,6 +23,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 #1. user stays logged in across restarts.
 <img src='https://media.giphy.com/media/yf9MieWSiEuIU2SV8e/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
