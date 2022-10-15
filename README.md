@@ -1,5 +1,41 @@
 # code-path-ParstagramApp
-clone instagram App 
+
+# Parstagram - Part II
+
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+
+Time spent: **X** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can log out. (1pt)
+- [x] User can view comments on a post. (3pts)
+- [x] User can add a new comment. (5pts)
+
+The following **bonus** features are implemented:
+
+- [ ] User can add a profile picture. (2pts)
+- [ ] Profile pictures are shown for posts and comments. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+#1. user stays logged in across restarts.
+<img src='https://media.giphy.com/media/yf9MieWSiEuIU2SV8e/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+#2.VIEW POST COMMENTS   :
+<img src='https://media.giphy.com/media/HrkE4jZvgZtlfsrpUU/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+#3.can log out:
+https://media.giphy.com/media/w9Tnfg2IdXgfHDJ0lw/giphy.gif
+
+#4.can add new comments:
+https://media.giphy.com/media/jUhxcpeGwiWLISKnx4/giphy.gif
+
+
 # code-Path-Parstagram
 # Parstagram - Part I
 
